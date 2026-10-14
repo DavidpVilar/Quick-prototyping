@@ -1,0 +1,19 @@
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Secretos y configuración local (nunca subir)
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+credentials*
+
+# Temporales
+*.tmp
+*.log
+~$*
